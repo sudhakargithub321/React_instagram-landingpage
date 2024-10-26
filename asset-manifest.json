@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_instagram-landingpage/static/css/main.19753859.css",
+    "main.js": "/React_instagram-landingpage/static/js/main.419f2bfd.js",
+    "static/js/453.0336a7d9.chunk.js": "/React_instagram-landingpage/static/js/453.0336a7d9.chunk.js",
+    "index.html": "/React_instagram-landingpage/index.html",
+    "main.19753859.css.map": "/React_instagram-landingpage/static/css/main.19753859.css.map",
+    "main.419f2bfd.js.map": "/React_instagram-landingpage/static/js/main.419f2bfd.js.map",
+    "453.0336a7d9.chunk.js.map": "/React_instagram-landingpage/static/js/453.0336a7d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19753859.css",
+    "static/js/main.419f2bfd.js"
+  ]
+}
